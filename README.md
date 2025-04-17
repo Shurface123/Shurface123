@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on open-source projects, especially in education, health, or fitness tech.
 - 📫 How to reach me: [lovelacejohnkwakubaidoo@gmail.com] | [www.linkedin.com/in/lovelace-john-kwaku-baidoo-771337356]  
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I once built and still build an elitefit gym planning app for a fictional brand to test real-life project workflows—nerdy but fun!
+- ⚡ Fun fact: I once built and still building an Elitefit Gym website for a fictional brand to test real-life project workflows—nerdy but fun!
 
 
 <!---
