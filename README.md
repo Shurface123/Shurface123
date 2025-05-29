@@ -125,16 +125,16 @@ hobbies: ["Coding", "Tech Innovation", "Fitness", "Learning"]
 ---
 
 ### 🌐 Portfolio Website
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shurface123&repo=portfolio&theme=tokyonight)](https://github.com/Shurface123/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shurface123&repo=portfolio&theme=tokyonight)](https://github.com/Shurface123/Portfolio)
 
-**Tech Stack:** React, Node.js, MongoDB, Tailwind CSS  
+**Tech Stack:** React, Node.js, Tailwind CSS  
 **Features:** Responsive design, contact form, project showcase, blog  
 **Status:** ✅ Live
 
 ---
 
 ### 🎓 Python CGPA Calculator
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shurface123&repo=cgpa-calculator&theme=tokyonight)](https://github.com/Shurface123/cgpa-calculator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shurface123&repo=CGPA&theme=tokyonight)](https://github.com/Shurface123/CGPA)
 
 **Tech Stack:** Python, Modules, PIP, Packages  
 **Features:** Course grade input, GPA/CGPA calculation, grade visualization, semester tracking, academic performance analytics  
@@ -176,8 +176,11 @@ The card will maintain the same visual style with the Tokyo Night theme to match
 ### 📈 Skills Development Timeline
 ```
 2022 ████████████████████████████████ Started Full-Stack Journey
+
 2023 ████████████████████████████████ Advanced in HTML, CSS & JS
+
 2024 ████████████████████████████████ Advanced in Object Oriented Programming & Data Structures
+
 2025 ████████████████████████████████ Advancing in Database and  AWS Cloud Computing
 ```
 
