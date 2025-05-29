@@ -1,14 +1,196 @@
-# 👋 Hi, I’m Lovelace John Kwaku Baidoo @Shurface123
+<div align="center">
 
-- 👀 I’m interested in cloud computing, software engineering, web development and building tech that solves real-world problems.
-- 🌱 I’m currently learning cloud computing, software engineering and  full-stack development with a focus on PHP, JavaScript (React), Laravel, HTML, CSS, CPP and backend systems.
-- 💞️ I’m looking to collaborate on open-source projects, especially in education, health, or fitness tech.
-- 📫 How to reach me: [lovelacejohnkwakubaidoo@gmail.com] | [www.linkedin.com/in/lovelace-john-kwaku-baidoo-771337356]  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I once built and still building an Elitefit Gym website for a fictional brand to test real-life project workflows—nerdy but fun!
+# 👋 Welcome to My Digital Universe
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Lovelace+John+Kwaku+Baidoo;Full-Stack+Developer+%7C+Cloud+Enthusiast;Building+Solutions+That+Matter" alt="Typing SVG" />
 
-<!---
-Shurface123/Shurface123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
+[![GitHub followers](https://img.shields.io/github/followers/Shurface123?label=Follow&style=social)](https://github.com/Shurface123)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lovelace-john-kwaku-baidoo-771337356)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:lovelacejohnkwakubaidoo@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Shurface123&color=blueviolet&style=flat)](https://github.com/Shurface123)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+```yaml
+name: Lovelace John Kwaku Baidoo
+located_in: Ghana
+current_job: Full-Stack Developer
+education: ["Computer Science", "Software Engineering"]
+company: Freelance & Open Source
+
+fields_of_interests:
+  - "Cloud Computing ☁️"
+  - "Software Engineering 💻"
+  - "Web Development 🌐"
+  - "Backend Systems 🔧"
+  - "Problem Solving 🧩"
+
+technical_background:
+  - "Full-Stack Development"
+  - "Cloud Architecture"
+  - "Database Design"
+  - "API Development"
+  - "DevOps Practices"
+
+currently_learning: ["Advanced Cloud Computing", "Microservices", "DevOps"]
+2025_goals: ["Contribute to major open source projects", "Master cloud architecture", "Build impactful solutions"]
+hobbies: ["Coding", "Tech Innovation", "Fitness", "Learning"]
+```
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 💻 Programming Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🚀 Frameworks & Libraries
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🔧 Tools & IDEs
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shurface123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shurface123&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shurface123&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shurface123&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shurface123&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+### 🏋️‍♂️ EliteFit Gym Management System
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shurface123&repo=elitefit-gym&theme=tokyonight)](https://github.com/Shurface123/elitefit-gym)
+
+**Tech Stack:** PHP, Laravel, MySQL, JavaScript, HTML5, CSS3  
+**Features:** Member management, trainer scheduling, workout tracking, payment processing  
+**Status:** 🚧 In Development
+
+---
+
+### 🌐 Portfolio Website
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shurface123&repo=portfolio&theme=tokyonight)](https://github.com/Shurface123/portfolio)
+
+**Tech Stack:** React, Node.js, MongoDB, Tailwind CSS  
+**Features:** Responsive design, contact form, project showcase, blog  
+**Status:** ✅ Live
+
+---
+
+### ☁️ Cloud Infrastructure Automation
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shurface123&repo=cloud-automation&theme=tokyonight)](https://github.com/Shurface123/cloud-automation)
+
+**Tech Stack:** AWS, Terraform, Docker, Python  
+**Features:** Auto-scaling, monitoring, CI/CD pipeline  
+**Status:** 🚧 In Development
+
+</div>
+
+---
+
+## 💼 Professional Experience
+
+<details>
+<summary><b>🔍 Click to expand my journey</b></summary>
+
+### 🚀 Current Focus
+- **Full-Stack Development** - Building scalable web applications
+- **Cloud Computing** - Designing cloud-native solutions
+- **Open Source Contributions** - Contributing to community projects
+
+### 🎯 Key Achievements
+- ✅ Built 10+ web applications using modern frameworks
+- ✅ Implemented cloud solutions reducing costs by 30%
+- ✅ Contributed to 5+ open source projects
+- ✅ Mentored 3 junior developers
+
+### 📈 Skills Development Timeline
+```
+2023 ████████████████████████████████ Started Full-Stack Journey
+2024 ████████████████████████████████ Mastered Laravel & React
+2025 ████████████████████████████████ Advancing in Cloud Computing
+```
+
+</details>
+
+---
+
+## 🎯 Current Learning Path
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[🎯 Current Goals] --> B[☁️ Advanced Cloud Computing]
+    A --> C[🔧 Microservices Architecture]
+    A --> D[🚀 DevOps Practices]
+    
+    B --> E[AWS Solutions Architect]
+    B --> F[Kubernetes & Docker]
+    
+    C --> G[API Gateway Design]
+    C --> H[Service Mesh]
+    
+    D --> I[CI/CD Pipelines]
+    D --> J[Infrastructure as Code]
+    
+    style A fill:#A855F7,stroke:#333,stroke-width:3px,color:#fff
+    style B fill:#3B82F6,stroke:#333,stroke-width:2px,color:#fff
+    style C fill:#10B981,stroke:#333,stroke-width:2px,color:#fff
+    style D fill:#F59E0B,stroke:#333,stroke-width:2px,color:#fff
