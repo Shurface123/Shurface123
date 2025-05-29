@@ -22,8 +22,8 @@
 ```yaml
 name: Lovelace John Kwaku Baidoo
 located_in: Ghana
-current_job: Full-Stack Developer
-education: ["Computer Science", "Software Engineering"]
+current_job: Third Year Regional Maritime University Student
+education: ["Information Technology", "Computer Programming"]
 company: Freelance & Open Source
 
 fields_of_interests:
@@ -35,12 +35,12 @@ fields_of_interests:
 
 technical_background:
   - "Full-Stack Development"
-  - "Cloud Architecture"
+  - "Cloud Computing"
   - "Database Design"
   - "API Development"
   - "DevOps Practices"
 
-currently_learning: ["Advanced Cloud Computing", "Microservices", "DevOps"]
+currently_learning: ["Advancing AWS Cloud Computing", "Microservices", "DevOps", "MySQL"]
 2025_goals: ["Contribute to major open source projects", "Master cloud architecture", "Build impactful solutions"]
 hobbies: ["Coding", "Tech Innovation", "Fitness", "Learning"]
 ```
@@ -151,20 +151,21 @@ hobbies: ["Coding", "Tech Innovation", "Fitness", "Learning"]
 
 ### 🚀 Current Focus
 - **Full-Stack Development** - Building scalable web applications
-- **Cloud Computing** - Designing cloud-native solutions
-- **Open Source Contributions** - Contributing to community projects
+- **Cloud Computing** - Undertaking the full course from AWS
+- **Open Source Contributions** - Contributing to university projects
 
 ### 🎯 Key Achievements
 - ✅ Built 10+ web applications using modern frameworks
 - ✅ Implemented cloud solutions reducing costs by 30%
 - ✅ Contributed to 5+ open source projects
-- ✅ Mentored 3 junior developers
+  
 
 ### 📈 Skills Development Timeline
 ```
-2023 ████████████████████████████████ Started Full-Stack Journey
-2024 ████████████████████████████████ Mastered Laravel & React
-2025 ████████████████████████████████ Advancing in Cloud Computing
+2022 ████████████████████████████████ Started Full-Stack Journey
+2023 ████████████████████████████████ Advanced in HTML, CSS & JS
+2024 ████████████████████████████████ Advanced in Object Oriented Programming & Data Structures
+2025 ████████████████████████████████ Advancing in Database and  AWS Cloud Computing
 ```
 
 </details>
@@ -177,12 +178,12 @@ hobbies: ["Coding", "Tech Innovation", "Fitness", "Learning"]
 
 ```mermaid
 graph TD
-    A[🎯 Current Goals] --> B[☁️ Advanced Cloud Computing]
+    A[🎯 Current Goals] --> B[☁️ AWS Cloud Computing]
     A --> C[🔧 Microservices Architecture]
     A --> D[🚀 DevOps Practices]
     
-    B --> E[AWS Solutions Architect]
-    B --> F[Kubernetes & Docker]
+    B --> E[AWS Cloud Computing]
+    B --> F[PHP & Laravel]
     
     C --> G[API Gateway Design]
     C --> H[Service Mesh]
@@ -197,69 +198,46 @@ graph TD
 
 ## 🤝 Let's Collaborate!
 
-`<div align="center">`### 🔍 I'm looking for opportunities in:
+### 🔍 I'm looking for opportunities in:
 
-`<table>
-<tr>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-<br><b>Open Source</b>
-<br>Contributing to impactful projects
-</td>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
-<br><b>Education Tech</b>
-<br>Building learning platforms
-</td>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
-<br><b>Health Tech</b>
-<br>Healthcare solutions
-</td>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
-<br><b>Fitness Tech</b>
-<br>Wellness applications
-</td>
-</tr>
-</table>``</div>`---
+| 🌟 Open Source | 📚 Education Tech | 🏥 Health Tech | 💪 Fitness Tech |
+|:---:|:---:|:---:|:---:|
+| Contributing to impactful projects | Building learning platforms | Healthcare solutions | Wellness applications |
+
+---
 
 ## 📫 Connect With Me
 
-`<div align="center">``<a href="mailto:lovelacejohnkwakubaidoo@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/lovelace-john-kwaku-baidoo-771337356">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/Shurface123">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://twitter.com/yourhandle">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>`### 💬 Let's build something amazing together!
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lovelacejohnkwakubaidoo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lovelace-john-kwaku-baidoo-771337356)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shurface123)
 
-`<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200">``</div>`---
+### 💬 Let's build something amazing together!
+
+---
 
 ## ⚡ Fun Facts
 
-`<div align="center">`| 🎯 **Current Project** | 🏋️‍♂️ EliteFit Gym Management System
-|-----|-----
-| 🌱 **Learning** | Advanced Cloud Architecture & DevOps
-| 🎮 **Fun Fact** | I built a fictional gym website to test real-world workflows!
-| 🏆 **Goal 2025** | Contribute to 10 major open source projects
-| ☕ **Fuel** | Coffee + Code = Magic ✨
+| 🎯 **Current Project** | 🏋️‍♂️ EliteFit Gym Management System |
+|:---:|:---:|
+| 🌱 **Learning** | Advanced Cloud Computing & DevOps |
+| 🎮 **Fun Fact** | I built a fictional gym website to test real-world workflows! |
+| 🏆 **Goal 2025** | Contribute to 10 major open source projects |
+| ☕ **Fuel** | Coffee + Code = Magic ✨ |
+
+---
+
+### 🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+**Thanks for visiting! ⭐ Star some repositories if you find them interesting!**
+```
+
+The first version maintains the visual appeal with GIFs and advanced formatting, while the second version is simpler and more reliable across different GitHub renderers. Both will work perfectly in your README.md file!
 
 
-`</div>`---
 
-`<div align="center">`### 🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
-`<img src="https://user-images.githubusercontent.com/74038190/212284175-f47d3cf4-5985-4e33-8ac5-0f4a307cf9b8.gif" width="300">`**Thanks for visiting! ⭐ Star some repositories if you find them interesting!**
 
-`<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">``</div>`---
 
-`<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%">
-</div>
-````
+
+
