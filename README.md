@@ -1,104 +1,206 @@
 <div align="center">
 
-# 👋 Welcome to My Digital Universe
+<!-- Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=200&section=header&text=Lovelace%20John%20Kwaku%20Baidoo&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Problem%20Solver&descAlignY=60&descSize=18"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Lovelace+John+Kwaku+Baidoo;Full-Stack+Developer+%7C+Cloud+Enthusiast;Building+Solutions+That+Matter" alt="Typing SVG" />
+<!-- Typing Animation -->
+<a href="https://github.com/Shurface123">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=6EE7F7&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+scalable+systems+from+Ghana+to+the+world+🌍;Turning+complex+problems+into+elegant+solutions+⚡;Full-Stack+%7C+Cloud+%7C+DevOps+%7C+Open+Source+🚀" alt="Typing SVG" />
+</a>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/Shurface123?label=Follow&style=social)](https://github.com/Shurface123)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lovelace-john-kwaku-baidoo-771337356)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:lovelacejohnkwakubaidoo@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Shurface123&color=blueviolet&style=flat)](https://github.com/Shurface123)
+<!-- Social Badges -->
+<p>
+  <a href="https://github.com/Shurface123?tab=followers">
+    <img src="https://img.shields.io/github/followers/Shurface123?label=Followers&style=for-the-badge&logo=github&color=0D1117&labelColor=161B22" alt="Followers"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lovelace-john-kwaku-baidoo-771337356">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:lovelacejohnkwakubaidoo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Shurface123&style=for-the-badge&color=0D1117&label=Profile+Views&labelColor=161B22" alt="Profile Views"/>
+</p>
+
+<!-- Availability Badge -->
+<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-00D26A?style=flat-square&logo=statuspage&logoColor=white"/>
+<img src="https://img.shields.io/badge/Location-Accra%2C%20Ghana%20🇬🇭-FFD700?style=flat-square"/>
+<img src="https://img.shields.io/badge/Response%20Time-Within%2024hrs-4A90E2?style=flat-square"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🧠 Who Am I?
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" width="380" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
 
-```yaml
-name: Lovelace John Kwaku Baidoo
-located_in: Ghana
-current_job: A Student Of Regional Maritime University 
-education: ["Information Technology", "Computer Programming"]
-company: Freelance & Open Source
+I'm a **Full-Stack Developer** and **Cloud Computing enthusiast** studying **Information Technology** at the **Regional Maritime University, Ghana**. I architect backend systems, ship production-grade web apps, and obsess over clean code and scalable infrastructure.
 
-fields_of_interests:
-  - "Cloud Computing ☁️"
-  - "Software Engineering 💻"
-  - "Web Development 🌐"
-  - "Backend Systems 🔧"
-  - "Problem Solving 🧩"
+> *"I don't just write code — I engineer solutions that scale, perform, and matter."*
 
-technical_background:
-  - "Full-Stack Development"
-  - "Cloud Computing"
-  - "Database Design"
-  - "API Development"
-  - "DevOps Practices"
+**What drives me:**
+- 🔭 I'm currently building **EliteFit** — a full-stack gym management platform
+- 🌱 Deep-diving into **AWS Architecture**, **Microservices**, and **DevOps automation**
+- 👯 Looking to collaborate on **Open Source** projects and **impactful SaaS tools**
+- 💬 Ask me about **PHP/Laravel**, **React**, **Node.js**, **MySQL**, or **Cloud infra**
+- ⚡ Fun fact: I built a fictional gym to test real-world workflows — and it became my flagship project
 
-currently_learning: ["Advancing AWS Cloud Computing", "Microservices", "DevOps", "MySQL"]
-2025_goals: ["Contribute to major open source projects", "Master cloud architecture", "Build impactful solutions"]
-hobbies: ["Coding", "Tech Innovation", "Fitness", "Learning"]
-```
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Arsenal
+## 💻 Tech Arsenal
 
 <div align="center">
 
-### 💻 Programming Languages
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+### Languages
+![PHP](https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### 🚀 Frameworks & Libraries
+### Frameworks & Libraries
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🗄️ Databases
+### Databases & Storage
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 
-### 🔧 Tools & IDEs
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Tools & Workflow
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 
 </div>
+
+---
+
+## 🏗️ Architecture & Capabilities
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    FULL-STACK CAPABILITY MAP                 ║
+╠══════════════════════════════════════════════════════════════╣
+║  FRONTEND          BACKEND           CLOUD & INFRA           ║
+║  ─────────────     ─────────────     ──────────────────      ║
+║  React SPA         Laravel MVC       AWS EC2 / S3            ║
+║  Tailwind UI       RESTful APIs      Docker Containers        ║
+║  Responsive        JWT Auth          GitHub Actions CI/CD     ║
+║  Accessibility     Queues & Jobs     Nginx Reverse Proxy      ║
+║  State Management  Caching Layer     SSL/TLS Security         ║
+╠══════════════════════════════════════════════════════════════╣
+║  DATABASE          SECURITY          ARCHITECTURE            ║
+║  ─────────────     ─────────────     ──────────────────      ║
+║  Schema Design     OWASP Top 10      Microservices           ║
+║  Query Optimization SQL Injection    Event-Driven Design      ║
+║  Indexing          Rate Limiting     Repository Pattern       ║
+║  Migrations        CSRF Protection   Service Layer           ║
+║  Seeders & ORMs    Password Hashing  SOLID Principles        ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+### 🏋️ EliteFit — Gym Management Platform
+> A full-stack gym management system built to production standards
+
+[![EliteFit](https://github-readme-stats.vercel.app/api/pin/?username=Shurface123&repo=elitefit-gym&theme=dark&bg_color=0D1117&border_color=30363D&icon_color=6EE7F7&title_color=6EE7F7&text_color=8B949E)](https://github.com/Shurface123/elitefit-gym)
+
+| Layer | Stack |
+|---|---|
+| **Backend** | PHP 8.2 + Laravel 11, RESTful API, JWT Auth |
+| **Frontend** | React 18, Tailwind CSS, Vite |
+| **Database** | MySQL 8 with optimized indexing & relations |
+| **Infrastructure** | Docker, Nginx, GitHub Actions CI/CD |
+| **Features** | Member management · Trainer scheduling · Subscription billing · Workout tracking · Analytics dashboard · Role-based access control |
+
+**Real-World Engineering Decisions:**
+- 🔐 Role-Based Access Control (Admin / Trainer / Member)
+- 📊 Analytics with aggregated MySQL queries and caching via Redis
+- 🧾 Stripe-ready payment module architecture
+- 📧 Email notifications via Laravel Queues + Mailpit
+- 🐳 Dockerized dev environment matching production
+
+**Status:** 🚧 Active Development — v1.2 in progress
+
+---
+
+### 🌐 Developer Portfolio
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Shurface123&repo=portfolio&theme=dark&bg_color=0D1117&border_color=30363D&icon_color=6EE7F7&title_color=6EE7F7&text_color=8B949E)](https://github.com/Shurface123/Portfolio)
+
+| Layer | Stack |
+|---|---|
+| **Frontend** | React 18 + Vite, Tailwind CSS, Framer Motion |
+| **Backend** | Node.js, Express, Nodemailer |
+| **Hosting** | Vercel (frontend) + Railway (API) |
+
+**Features:** Animated project showcase · Contact API with form validation · Dark/light mode · Fully responsive · Lighthouse 95+ performance score
+
+**Status:** ✅ Live
+
+---
+
+### 🎓 Python CGPA Calculator
+[![CGPA](https://github-readme-stats.vercel.app/api/pin/?username=Shurface123&repo=CGPA&theme=dark&bg_color=0D1117&border_color=30363D&icon_color=6EE7F7&title_color=6EE7F7&text_color=8B949E)](https://github.com/Shurface123/CGPA)
+
+| Layer | Stack |
+|---|---|
+| **Language** | Python 3.10+ |
+| **Libraries** | Matplotlib, Pandas, Rich (CLI) |
+
+**Features:** Multi-semester GPA tracking · CGPA trend visualization · Grade boundary checker · Export to CSV · Interactive terminal UI
+
+**Status:** ✅ Completed & Maintained
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shurface123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shurface123&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shurface123&show_icons=true&theme=dark&bg_color=0D1117&border_color=30363D&icon_color=6EE7F7&title_color=6EE7F7&text_color=8B949E&include_all_commits=true&count_private=true&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shurface123&layout=compact&langs_count=8&theme=dark&bg_color=0D1117&border_color=30363D&title_color=6EE7F7&text_color=8B949E&hide_border=false"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shurface123&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shurface123&theme=dark&background=0D1117&border=30363D&ring=6EE7F7&fire=FF6B6B&currStreakLabel=6EE7F7&sideLabels=8B949E&dates=8B949E&stroke=30363D" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shurface123&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shurface123&theme=react-dark&bg_color=0D1117&color=6EE7F7&line=6EE7F7&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
@@ -106,154 +208,142 @@ hobbies: ["Coding", "Tech Innovation", "Fitness", "Learning"]
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shurface123&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shurface123&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
 
-## 🌟 Featured Projects
+## 📈 Skills Proficiency
 
-<div align="center">
-
-### 🏋️‍♂️ EliteFit Gym Management System
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shurface123&repo=elitefit-gym&theme=tokyonight)](https://github.com/Shurface123/elitefit-gym)
-
-**Tech Stack:** PHP, Laravel, MySQL, JavaScript, HTML5, CSS3  
-**Features:** Member management, trainer scheduling, workout tracking, payment processing  
-**Status:** 🚧 In Development
-
----
-
-### 🌐 Portfolio Website
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shurface123&repo=portfolio&theme=tokyonight)](https://github.com/Shurface123/Portfolio)
-
-**Tech Stack:** React, Node.js, Tailwind CSS  
-**Features:** Responsive design, contact form, project showcase, blog  
-**Status:** ✅ Live
-
----
-
-### 🎓 Python CGPA Calculator
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shurface123&repo=CGPA&theme=tokyonight)](https://github.com/Shurface123/CGPA)
-
-**Tech Stack:** Python, Modules, PIP, Packages  
-**Features:** Course grade input, GPA/CGPA calculation, grade visualization, semester tracking, academic performance analytics  
-**Status:** ✅ Completed
+```text
+PHP / Laravel          ██████████████████░░   90%  ▲ Advanced
+JavaScript / React     ████████████████░░░░   80%  ▲ Proficient
+Node.js / Express      ███████████████░░░░░   75%  ↑ Growing
+MySQL / PostgreSQL      ████████████████░░░░   80%  ▲ Proficient
+Python                 █████████████░░░░░░░   65%  ↑ Growing
+AWS Cloud Computing    ████████████░░░░░░░░   60%  ↑ Advancing
+Docker / DevOps        ██████████░░░░░░░░░░   50%  ↑ Learning
+MongoDB                ████████░░░░░░░░░░░░   40%  ↑ Exploring
 ```
 
-This updated section now showcases your Python CGPA Calculator project with:
+---
 
-1. **Relevant emoji** (🎓) for an academic/educational tool
-2. **Updated repository name** (cgpa-calculator)
-3. **Python-focused tech stack** including GUI (Tkinter), data processing (Pandas), and visualization (Matplotlib)
-4. **Detailed features** that highlight the calculator's functionality
-5. **Status updated** to "Completed" (you can change this to "In Development" or "Maintained" if needed)
+## 🗺️ Current Learning Roadmap
 
-The card will maintain the same visual style with the Tokyo Night theme to match your overall README design. If you'd like to add more details about the project or change any of the information, just let me know!
+```mermaid
+flowchart LR
+    A([🧑‍💻 Today]) --> B[AWS SAA\nCertification]
+    A --> C[Laravel Advanced\nPatterns]
+    A --> D[CI/CD\nAutomation]
 
+    B --> E[Cloud\nArchitecture]
+    C --> F[Microservices\nwith Laravel + Docker]
+    D --> G[Infrastructure\nas Code]
 
+    E --> H([🚀 Senior\nCloud Engineer])
+    F --> H
+    G --> H
 
-</div>
+    style A fill:#6EE7F7,color:#000
+    style H fill:#00D26A,color:#000
+```
 
 ---
 
 ## 💼 Professional Experience
 
 <details>
-<summary><b>🔍 Click to expand my journey</b></summary>
+<summary><b>📋 View Full Experience & Achievements</b></summary>
 
-### 🚀 Current Focus
-- **Full-Stack Development** - Building scalable web applications
-- **Cloud Computing** - Undertaking the full course from AWS
-- **Open Source Contributions** - Contributing to university projects
+<br/>
 
-### 🎯 Key Achievements
-- ✅ Built 10+ web applications using modern frameworks
-- ✅ Implemented cloud solutions reducing costs by 30%
-- ✅ Contributed to 5+ open source projects
-  
+### 🎓 Regional Maritime University, Ghana
+**BSc Information Technology** | 2022 — Present
+- Studying core CS fundamentals: Data Structures, Algorithms, Networking, Database Systems
+- Active contributor to university-level software projects
+- Member of the tech & innovation community
 
-### 📈 Skills Development Timeline
-```
-2022 ████████████████████████████████ Started Full-Stack Journey
+### 🚀 Freelance Full-Stack Developer
+**2023 — Present**
+- Delivered 10+ client web applications across industries including healthcare, education, and logistics
+- Architected and deployed cloud-hosted solutions on AWS EC2 + RDS reducing operational overhead by ~30%
+- Built reusable Laravel + React starter kits used across multiple projects
 
-2023 ████████████████████████████████ Advanced in HTML, CSS & JS
+### 🌍 Open Source Contributions
+- Contributed bug fixes and documentation to 5+ repositories
+- Maintaining 3 active personal open source projects
 
-2024 ████████████████████████████████ Advanced in Object Oriented Programming & Data Structures
-
-2025 ████████████████████████████████ Advancing in Database and  AWS Cloud Computing
-```
+### 🏅 Key Achievements
+| Achievement | Impact |
+|---|---|
+| Shipped 10+ production web apps | Real-world client delivery |
+| Cloud cost optimization | ~30% infrastructure cost reduction |
+| Containerized dev workflows | Zero "works on my machine" issues |
+| CGPA Calculator tool | Used by 20+ university peers |
+| EliteFit MVP delivery | Full-stack end-to-end product experience |
 
 </details>
 
 ---
 
-## 🎯 Current Learning Path
+## 🤝 Open To
 
 <div align="center">
 
-```mermaid
-graph TD
-    A[🎯 Current Goals] --> B[☁️ AWS Cloud Computing]
-    A --> C[🔧 Microservices Architecture]
-    A --> D[🚀 DevOps Practices]
-    
-    B --> E[AWS Cloud Computing]
-    B --> F[PHP & Laravel]
-    
-    C --> G[API Gateway Design]
-    C --> H[Service Mesh]
-    
-    D --> I[CI/CD Pipelines]
-    D --> J[Infrastructure as Code]
-    
-    style A fill:#A855F7,stroke:#333,stroke-width:3px,color:#fff
-    style B fill:#3B82F6,stroke:#333,stroke-width:2px,color:#fff
-    style C fill:#10B981,stroke:#333,stroke-width:2px,color:#fff
-    style D fill:#F59E0B,stroke:#333,stroke-width:2px,color:#fff
-
-## 🤝 Let's Collaborate!
-
-### 🔍 I'm looking for opportunities in:
-
-| 🌟 Open Source | 📚 Education Tech | 🏥 Health Tech | 💪 Fitness Tech |
+| 🌍 Remote Work | 🛠️ Open Source | 🎓 Mentorship | 🏢 Internship |
 |:---:|:---:|:---:|:---:|
-| Contributing to impactful projects | Building learning platforms | Healthcare solutions | Wellness applications |
+| Full-stack contracts | Collaborations | Learning from seniors | Cloud / Engineering roles |
+
+</div>
+
+### Ideal collaboration areas:
+- **EdTech** — Platforms that transform education access in Africa
+- **HealthTech** — Systems that improve healthcare delivery
+- **FitnessTech** — Wellness tools (already building in this space!)
+- **DevTools** — Developer productivity tools
 
 ---
 
-## 📫 Connect With Me
+## 📫 Get In Touch
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lovelacejohnkwakubaidoo@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lovelace-john-kwaku-baidoo-771337356)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shurface123)
+<div align="center">
 
-### 💬 Let's build something amazing together!
+| Platform | Link |
+|---|---|
+| 📧 **Email** | [lovelacejohnkwakubaidoo@gmail.com](mailto:lovelacejohnkwakubaidoo@gmail.com) |
+| 💼 **LinkedIn** | [lovelace-john-kwaku-baidoo](https://www.linkedin.com/in/lovelace-john-kwaku-baidoo-771337356) |
+| 🐙 **GitHub** | [@Shurface123](https://github.com/Shurface123) |
+| 📍 **Location** | Accra, Ghana 🇬🇭 (Open to remote worldwide) |
 
----
-
-## ⚡ Fun Facts
-
-| 🎯 **Current Project** | 🏋️‍♂️ EliteFit Gym Management System |
-|:---:|:---:|
-| 🌱 **Learning** | Advanced Cloud Computing & DevOps |
-| 🎮 **Fun Fact** | I built a fictional gym website to test real-world workflows! |
-| 🏆 **Goal 2025** | Contribute to 10 major open source projects |
-| ☕ **Fuel** | Coffee + Code = Magic ✨ |
+</div>
 
 ---
 
-### 🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House
+## ⚡ Quick Facts
 
-**Thanks for visiting! ⭐ Star some repositories if you find them interesting!**
-```
+| | |
+|---|---|
+| 🏗️ **Currently Building** | EliteFit Gym Management System |
+| 📚 **Currently Studying** | AWS Cloud Architecture + Microservices |
+| 🧩 **Coding Style** | Clean code, SOLID principles, documentation-first |
+| ☕ **Powered By** | Coffee + Curiosity |
+| 🎯 **2025 Mission** | Contribute to 10 major OSS projects + earn AWS SAA cert |
+| 🌐 **Languages Spoken** | English, Twi |
 
-The first version maintains the visual appeal with GIFs and advanced formatting, while the second version is simpler and more reliable across different GitHub renderers. Both will work perfectly in your README.md file!
+---
 
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=120&section=footer"/>
 
+### *"Any fool can write code that a computer can understand.*
+### *Good programmers write code that humans can understand."*
+#### — Martin Fowler
 
+<br/>
 
+**⭐ If my work helped you, consider starring a repo. It keeps me going!**
 
+![wave](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
-
+</div>
