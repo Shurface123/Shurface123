@@ -22,7 +22,7 @@
 ```yaml
 name: Lovelace John Kwaku Baidoo
 located_in: Ghana
-current_job: Third Year Regional Maritime University Student
+current_job: A Student Of Regional Maritime University 
 education: ["Information Technology", "Computer Programming"]
 company: Freelance & Open Source
 
