@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://github.com/Shurface123">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=6EE7F7&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+scalable+systems+from+Ghana+to+the+world+🌍;Turning+complex+problems+into+elegant+solutions+⚡;Full-Stack+%7C+Cloud+%7C+DevOps+%7C+Open+Source+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=6EE7F7&center=true&vCenter=true&width=700&lines=Building+scalable+systems+from+Ghana+%F0%9F%8C%8D;Turning+complex+problems+into+elegant+solutions;Full-Stack+%7C+Cloud+%7C+DevOps+%7C+Open+Source" alt="Typing SVG" />
 </a>
 
 <br/>
